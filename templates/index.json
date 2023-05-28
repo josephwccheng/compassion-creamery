@@ -1,0 +1,182 @@
+{
+  "sections": {
+    "image-with-text": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cream cheese made from oats",
+            "heading_size": "h1"
+          }
+        },
+        "4f5a770f-faa7-4f37-b346-f78c2850e3a9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>All delicious. All nutritious. All vegan.<\/p><p><\/p>",
+            "text_style": "subtitle"
+          }
+        },
+        "button": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy Now",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "4f5a770f-faa7-4f37-b346-f78c2850e3a9",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/PXL_20230527_234217484.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 12,
+        "padding_bottom": 32
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured products",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 32,
+        "padding_bottom": 36
+      }
+    },
+    "cff1febd-a796-4207-9a3a-f14576fd03f1": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16727963271396__cff1febd-a796-4207-9a3a-f14576fd03f1-1683720216fcd56d40-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Business_NSW.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16727963271396__cff1febd-a796-4207-9a3a-f14576fd03f1-1683720216fcd56d40-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/naturally_good_expo.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16727963271396__cff1febd-a796-4207-9a3a-f14576fd03f1-1683720216fcd56d40-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fishburners.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16727963271396__cff1febd-a796-4207-9a3a-f14576fd03f1-1683720216fcd56d40-0",
+        "template--16727963271396__cff1febd-a796-4207-9a3a-f14576fd03f1-1683720216fcd56d40-1",
+        "template--16727963271396__cff1febd-a796-4207-9a3a-f14576fd03f1-1683720216fcd56d40-2"
+      ],
+      "settings": {
+        "title": "Awards",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "824ebe1a-7b75-4cf9-a1e2-ac338d9069eb": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16727963271396__824ebe1a-7b75-4cf9-a1e2-ac338d9069eb-168397005136935adc-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--16727963271396__824ebe1a-7b75-4cf9-a1e2-ac338d9069eb-168397005136935adc-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16727963271396__824ebe1a-7b75-4cf9-a1e2-ac338d9069eb-168397005136935adc-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16727963271396__824ebe1a-7b75-4cf9-a1e2-ac338d9069eb-168397005136935adc-0",
+        "template--16727963271396__824ebe1a-7b75-4cf9-a1e2-ac338d9069eb-168397005136935adc-1",
+        "template--16727963271396__824ebe1a-7b75-4cf9-a1e2-ac338d9069eb-168397005136935adc-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image-with-text",
+    "featured_collection",
+    "cff1febd-a796-4207-9a3a-f14576fd03f1",
+    "824ebe1a-7b75-4cf9-a1e2-ac338d9069eb"
+  ]
+}
