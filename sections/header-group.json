@@ -8,15 +8,18 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "FREE SHIPPING OVER $50",
+            "text": "FREE SHIPPING OVER $56",
             "text_alignment": "center",
             "color_scheme": "accent-1",
             "link": ""
           }
         }
       },
-      "block_order": ["announcement-bar-0"],
-      "settings": {}
+      "block_order": [
+        "announcement-bar-0"
+      ],
+      "settings": {
+      }
     },
     "header": {
       "type": "header",
@@ -36,5 +39,8 @@
       }
     }
   },
-  "order": ["announcement-bar", "header"]
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
 }
