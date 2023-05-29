@@ -1,1 +1,66 @@
-{"name":"t:sections.footer.name","type":"footer","sections":{"footer":{"type":"footer","blocks":{"858789e5-826a-480d-9826-ab2f8ea44910":{"type":"text","settings":{"heading":"Heading","subtext":"<p>Share contact information, store details, and brand content with your customers.<\/p>"}},"ff1fdda8-f727-4e21-b0c3-cdba0ab74d98":{"type":"text","settings":{"heading":"Heading","subtext":"<p>Share contact information, store details, and brand content with your customers.<\/p>"}},"8485917c-6e3c-486e-aba4-a823a3ca7797":{"type":"link_list","settings":{"heading":"Quick links","menu":"footer"}},"c3fe57de-3dac-445b-add7-deb7175ea601":{"type":"link_list","settings":{"heading":"Quick links","menu":"footer"}}},"block_order":["858789e5-826a-480d-9826-ab2f8ea44910","ff1fdda8-f727-4e21-b0c3-cdba0ab74d98","8485917c-6e3c-486e-aba4-a823a3ca7797","c3fe57de-3dac-445b-add7-deb7175ea601"],"settings":{"color_scheme":"accent-1","newsletter_enable":true,"newsletter_heading":"Subscribe to our emails","enable_follow_on_shop":true,"show_social":true,"enable_country_selector":false,"enable_language_selector":true,"payment_enable":false,"show_policy":false,"margin_top":36,"padding_top":32,"padding_bottom":32}}},"order":["footer"]}
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "858789e5-826a-480d-9826-ab2f8ea44910": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "heading": "Heading",
+            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+          }
+        },
+        "ff1fdda8-f727-4e21-b0c3-cdba0ab74d98": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "heading": "Heading",
+            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+          }
+        },
+        "8485917c-6e3c-486e-aba4-a823a3ca7797": {
+          "type": "link_list",
+          "disabled": true,
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        },
+        "c3fe57de-3dac-445b-add7-deb7175ea601": {
+          "type": "link_list",
+          "disabled": true,
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        }
+      },
+      "block_order": [
+        "858789e5-826a-480d-9826-ab2f8ea44910",
+        "ff1fdda8-f727-4e21-b0c3-cdba0ab74d98",
+        "8485917c-6e3c-486e-aba4-a823a3ca7797",
+        "c3fe57de-3dac-445b-add7-deb7175ea601"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "newsletter_enable": true,
+        "newsletter_heading": "Sign Up For Updates",
+        "enable_follow_on_shop": false,
+        "show_social": true,
+        "enable_country_selector": false,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "show_policy": false,
+        "margin_top": 36,
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}
