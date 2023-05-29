@@ -1,5 +1,53 @@
 {
   "sections": {
+    "ed367629-ccc2-4528-8fd0-74555c7c5b4b": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16736965591268__ed367629-ccc2-4528-8fd0-74555c7c5b4b-1685360744f04d5d9b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cream cheese made from oats",
+            "heading_size": "h1"
+          }
+        },
+        "template--16736965591268__ed367629-ccc2-4528-8fd0-74555c7c5b4b-1685360744f04d5d9b-1": {
+          "type": "text",
+          "settings": {
+            "text": "All delicious. All nutritious. All vegan.",
+            "text_style": "body"
+          }
+        },
+        "template--16736965591268__ed367629-ccc2-4528-8fd0-74555c7c5b4b-1685360744f04d5d9b-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Buy Now",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16736965591268__ed367629-ccc2-4528-8fd0-74555c7c5b4b-1685360744f04d5d9b-0",
+        "template--16736965591268__ed367629-ccc2-4528-8fd0-74555c7c5b4b-1685360744f04d5d9b-1",
+        "template--16736965591268__ed367629-ccc2-4528-8fd0-74555c7c5b4b-1685360744f04d5d9b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/PXL_20230527_234217484.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "image-with-text": {
       "type": "image-with-text",
       "blocks": {
@@ -127,113 +175,12 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "b3cbfc2c-fd22-4982-a7b3-4f353fb8ca72": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--16736965591268__b3cbfc2c-fd22-4982-a7b3-4f353fb8ca72-168535929882de68b2-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Canva_Logo.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--16736965591268__b3cbfc2c-fd22-4982-a7b3-4f353fb8ca72-168535929882de68b2-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/BBC_logo.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--16736965591268__b3cbfc2c-fd22-4982-a7b3-4f353fb8ca72-168535929882de68b2-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Oh_My_Days_Final_Logo_-_Black-01-crop.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16736965591268__b3cbfc2c-fd22-4982-a7b3-4f353fb8ca72-168535929882de68b2-0",
-        "template--16736965591268__b3cbfc2c-fd22-4982-a7b3-4f353fb8ca72-168535929882de68b2-1",
-        "template--16736965591268__b3cbfc2c-fd22-4982-a7b3-4f353fb8ca72-168535929882de68b2-2"
-      ],
-      "settings": {
-        "title": "Our Customers",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "824ebe1a-7b75-4cf9-a1e2-ac338d9069eb": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--16727963271396__824ebe1a-7b75-4cf9-a1e2-ac338d9069eb-168397005136935adc-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
-        },
-        "template--16727963271396__824ebe1a-7b75-4cf9-a1e2-ac338d9069eb-168397005136935adc-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--16727963271396__824ebe1a-7b75-4cf9-a1e2-ac338d9069eb-168397005136935adc-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16727963271396__824ebe1a-7b75-4cf9-a1e2-ac338d9069eb-168397005136935adc-0",
-        "template--16727963271396__824ebe1a-7b75-4cf9-a1e2-ac338d9069eb-168397005136935adc-1",
-        "template--16727963271396__824ebe1a-7b75-4cf9-a1e2-ac338d9069eb-168397005136935adc-2"
-      ],
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
+    "ed367629-ccc2-4528-8fd0-74555c7c5b4b",
     "image-with-text",
     "featured_collection",
-    "cff1febd-a796-4207-9a3a-f14576fd03f1",
-    "b3cbfc2c-fd22-4982-a7b3-4f353fb8ca72",
-    "824ebe1a-7b75-4cf9-a1e2-ac338d9069eb"
+    "cff1febd-a796-4207-9a3a-f14576fd03f1"
   ]
 }
