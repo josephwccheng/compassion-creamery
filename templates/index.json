@@ -34,11 +34,16 @@
         "template--16736965591268__ed367629-ccc2-4528-8fd0-74555c7c5b4b-1685360744f04d5d9b-1",
         "template--16736965591268__ed367629-ccc2-4528-8fd0-74555c7c5b4b-1685360744f04d5d9b-2"
       ],
+      "custom_css": [
+        ".banner__box {background-color: transparent; border: 0;}",
+        ".banner__heading {color: white;}",
+        ".banner__text {color: white;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/PXL_20230527_234217484.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "desktop_content_position": "middle-left",
+        "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
