@@ -82,7 +82,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "https:\/\/www.businessnsw.com\/events\/business-awards"
           }
         },
         "template--16727963271396__cff1febd-a796-4207-9a3a-f14576fd03f1-1683720216fcd56d40-1": {
@@ -92,7 +92,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "https:\/\/naturallygood.com.au\/meet-the-makers\/meet-sara-qian-from-compassion-creamery-this-years-2022-pitch-fest-winner\/"
           }
         },
         "template--16727963271396__cff1febd-a796-4207-9a3a-f14576fd03f1-1683720216fcd56d40-2": {
@@ -102,7 +102,7 @@
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "https:\/\/fishburners.org\/techforgood\/fishburners-doubles-down-on-sustainability-announcing-winners-of-tech-for-good-awards\/"
           }
         }
       },
@@ -112,18 +112,18 @@
         "template--16727963271396__cff1febd-a796-4207-9a3a-f14576fd03f1-1683720216fcd56d40-2"
       ],
       "settings": {
-        "title": "Awards",
+        "title": "Awards & Accodales",
         "heading_size": "h2",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "columns_desktop": 3,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
