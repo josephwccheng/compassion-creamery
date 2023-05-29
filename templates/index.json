@@ -128,6 +128,62 @@
         "padding_bottom": 36
       }
     },
+    "b3cbfc2c-fd22-4982-a7b3-4f353fb8ca72": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16736965591268__b3cbfc2c-fd22-4982-a7b3-4f353fb8ca72-168535929882de68b2-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Canva_Logo.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16736965591268__b3cbfc2c-fd22-4982-a7b3-4f353fb8ca72-168535929882de68b2-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BBC_logo.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16736965591268__b3cbfc2c-fd22-4982-a7b3-4f353fb8ca72-168535929882de68b2-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Oh_My_Days_Final_Logo_-_Black-01-crop.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16736965591268__b3cbfc2c-fd22-4982-a7b3-4f353fb8ca72-168535929882de68b2-0",
+        "template--16736965591268__b3cbfc2c-fd22-4982-a7b3-4f353fb8ca72-168535929882de68b2-1",
+        "template--16736965591268__b3cbfc2c-fd22-4982-a7b3-4f353fb8ca72-168535929882de68b2-2"
+      ],
+      "settings": {
+        "title": "Our Customers",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "824ebe1a-7b75-4cf9-a1e2-ac338d9069eb": {
       "type": "image-with-text",
       "blocks": {
@@ -177,6 +233,7 @@
     "image-with-text",
     "featured_collection",
     "cff1febd-a796-4207-9a3a-f14576fd03f1",
+    "b3cbfc2c-fd22-4982-a7b3-4f353fb8ca72",
     "824ebe1a-7b75-4cf9-a1e2-ac338d9069eb"
   ]
 }
