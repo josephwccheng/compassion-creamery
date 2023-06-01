@@ -145,7 +145,7 @@
             "image": "shopify:\/\/shop_images\/afr_3.png",
             "title": "",
             "text": "",
-            "link_label": "Sowing Her Wild Oats",
+            "link_label": "Sowing Her Wild Oats by Julie Hare",
             "link": "https:\/\/www.afr.com\/work-and-careers\/careers\/sowing-her-wild-oats-how-sarah-qian-created-a-yummy-vegan-cheese-20220914-p5bhw8"
           }
         },
@@ -155,7 +155,7 @@
             "image": "shopify:\/\/shop_images\/food_and_drink_business.png",
             "title": "",
             "text": "",
-            "link_label": "Rising Star of Compassion Creamery",
+            "link_label": "Rising Star of Compassion Creamery by Kim Berry",
             "link": "https:\/\/www.foodanddrinkbusiness.com.au\/news\/the-rising-star-of-compassion-creamery"
           }
         },
@@ -163,8 +163,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/ABC.jpg",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": ""
           }
