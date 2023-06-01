@@ -122,8 +122,8 @@
       "settings": {
         "title": "Awards & Accodales",
         "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "square",
+        "image_width": "half",
+        "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "primary",
@@ -159,32 +159,32 @@
             "link": "https:\/\/www.foodanddrinkbusiness.com.au\/news\/the-rising-star-of-compassion-creamery"
           }
         },
-        "template--16736965591268__487ce497-43b5-450f-b26c-18f665bec211-168557841447fcb40a-2": {
+        "9a9619b1-4320-4aff-bdd1-c558a61afb58": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ABC.jpg",
+            "image": "shopify:\/\/shop_images\/OIP.jpg",
             "title": "",
             "text": "",
-            "link_label": "",
-            "link": ""
+            "link_label": "Cream of the Oat Crop by Luisa Low",
+            "link": "https:\/\/www.sydney.edu.au\/news-opinion\/news\/2022\/09\/20\/graduate-invention-the-cream-of-the-oat-crop.html"
           }
         }
       },
       "block_order": [
         "template--16736965591268__487ce497-43b5-450f-b26c-18f665bec211-168557841447fcb40a-0",
         "template--16736965591268__487ce497-43b5-450f-b26c-18f665bec211-168557841447fcb40a-1",
-        "template--16736965591268__487ce497-43b5-450f-b26c-18f665bec211-168557841447fcb40a-2"
+        "9a9619b1-4320-4aff-bdd1-c558a61afb58"
       ],
       "settings": {
         "title": "As Seen In",
-        "heading_size": "h1",
-        "image_width": "full",
+        "heading_size": "h2",
+        "image_width": "half",
         "image_ratio": "adapt",
         "columns_desktop": 3,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
+        "button_label": "Buy Now",
+        "button_link": "shopify:\/\/collections\/all",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,

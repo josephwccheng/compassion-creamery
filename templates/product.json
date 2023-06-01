@@ -36,11 +36,14 @@
           "settings": {
             "layout": "horizontal",
             "icon_1": "heart",
-            "heading_1": "Afterpay",
+            "image_1": "shopify:\/\/shop_images\/Klarna_logo_ea11372d-2a31-4626-8598-43f05c926534.png",
+            "heading_1": "Klarna",
             "icon_2": "return",
-            "heading_2": "Zip",
+            "image_2": "shopify:\/\/shop_images\/zippay_logo.png",
+            "heading_2": "Zip Pay",
             "icon_3": "truck",
-            "heading_3": "Klarna"
+            "image_3": "shopify:\/\/shop_images\/afterpay_logo.png",
+            "heading_3": "Afterpay"
           }
         },
         "0552bf2e-d8ef-4b3e-abc4-54dd1b295637": {
@@ -60,16 +63,7 @@
           "settings": {
             "heading": "How to eat",
             "icon": "none",
-            "content": "<p>Fold it into a pasta.<\/p><p>Bake it into a cheesecake (as shown).<\/p><p>Stuff it into zucchini flowers.<\/p><p>The versatility of our original oat creme are endless, sweet or savoury, bake or schmear.<\/p><p>Always oh so creamy.<\/p>",
-            "page": ""
-          }
-        },
-        "abf7207f-3741-44e7-b68c-20c166ebe481": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "What does it taste like?",
-            "icon": "none",
-            "content": "<p>TO BE ADDED<\/p>",
+            "content": "<p>Our dessert pots are designed to be eaten straight out of the tub but to elevate...<\/p><p>- Sandwich in between two cookies<\/p><p>- Dollop on brownies<\/p><p>- Spoon onto morning pancakes<\/p>",
             "page": ""
           }
         },
@@ -78,7 +72,7 @@
           "settings": {
             "heading": "Allergens",
             "icon": "none",
-            "content": "<p>TO ADD<\/p>",
+            "content": "<p>Contains gluten from oats and wheat<\/p>",
             "page": ""
           }
         }
@@ -92,7 +86,6 @@
         "37e3bb38-9ef4-491d-88f2-f2dd7f68754d",
         "0552bf2e-d8ef-4b3e-abc4-54dd1b295637",
         "4651b0e9-ab70-4256-a640-964614d555ee",
-        "abf7207f-3741-44e7-b68c-20c166ebe481",
         "b21c8752-a6a8-4beb-bbbb-dce5e9ca18fc"
       ],
       "settings": {
