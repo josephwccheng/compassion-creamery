@@ -135,11 +135,68 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "487ce497-43b5-450f-b26c-18f665bec211": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16736965591268__487ce497-43b5-450f-b26c-18f665bec211-168557841447fcb40a-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/afr_3.png",
+            "title": "",
+            "text": "",
+            "link_label": "Sowing Her Wild Oats",
+            "link": "https:\/\/www.afr.com\/work-and-careers\/careers\/sowing-her-wild-oats-how-sarah-qian-created-a-yummy-vegan-cheese-20220914-p5bhw8"
+          }
+        },
+        "template--16736965591268__487ce497-43b5-450f-b26c-18f665bec211-168557841447fcb40a-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/food_and_drink_business.png",
+            "title": "",
+            "text": "",
+            "link_label": "Rising Star of Compassion Creamery",
+            "link": "https:\/\/www.foodanddrinkbusiness.com.au\/news\/the-rising-star-of-compassion-creamery"
+          }
+        },
+        "template--16736965591268__487ce497-43b5-450f-b26c-18f665bec211-168557841447fcb40a-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ABC.jpg",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16736965591268__487ce497-43b5-450f-b26c-18f665bec211-168557841447fcb40a-0",
+        "template--16736965591268__487ce497-43b5-450f-b26c-18f665bec211-168557841447fcb40a-1",
+        "template--16736965591268__487ce497-43b5-450f-b26c-18f665bec211-168557841447fcb40a-2"
+      ],
+      "settings": {
+        "title": "As Seen In",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "ed367629-ccc2-4528-8fd0-74555c7c5b4b",
     "featured_collection",
-    "cff1febd-a796-4207-9a3a-f14576fd03f1"
+    "cff1febd-a796-4207-9a3a-f14576fd03f1",
+    "487ce497-43b5-450f-b26c-18f665bec211"
   ]
 }
