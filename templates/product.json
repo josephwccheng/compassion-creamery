@@ -72,7 +72,7 @@
           "settings": {
             "heading": "Allergens",
             "icon": "none",
-            "content": "<p>Contains gluten from oats and wheat<\/p>",
+            "content": "<p>Contains gluten <\/p>",
             "page": ""
           }
         }
