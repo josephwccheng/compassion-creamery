@@ -23,9 +23,8 @@
         },
         "8485917c-6e3c-486e-aba4-a823a3ca7797": {
           "type": "link_list",
-          "disabled": true,
           "settings": {
-            "heading": "Quick links",
+            "heading": "",
             "menu": "footer"
           }
         },
