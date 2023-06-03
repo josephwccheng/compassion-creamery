@@ -8,6 +8,11 @@
           "settings": {
           }
         },
+        "dd1770e1-ba5f-44e9-b76f-8946e802feda": {
+          "type": "price",
+          "settings": {
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -79,6 +84,7 @@
       },
       "block_order": [
         "title",
+        "dd1770e1-ba5f-44e9-b76f-8946e802feda",
         "description",
         "variant_picker",
         "quantity_selector",
