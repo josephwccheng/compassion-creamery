@@ -68,7 +68,7 @@
           "settings": {
             "heading": "How to eat",
             "icon": "none",
-            "content": "<p>Our dessert pots are designed to be eaten straight out of the tub but to elevate...<\/p><p>- Sandwich in between two cookies<\/p><p>- Dollop on brownies<\/p><p>- Spoon onto morning pancakes<\/p>",
+            "content": "<p>{{ product.metafields.custom.how_to_eat | metafield_tag }}<\/p>",
             "page": ""
           }
         },
