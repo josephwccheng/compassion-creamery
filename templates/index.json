@@ -209,7 +209,7 @@
         "5fd27f5c-7f57-435d-b7f7-6bd3bfb3d023": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Choose Compassion",
+            "button_label_1": "Discover Compassion",
             "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -238,7 +238,9 @@
     "social_widget_35755": {
       "type": "social-widget",
       "settings": {
-        "social_widget_id": "35755"
+        "social_widget_id": "35755",
+        "social_product_id": "none",
+        "social_widget_type": "none"
       }
     }
   },
