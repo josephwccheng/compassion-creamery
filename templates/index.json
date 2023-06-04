@@ -20,7 +20,7 @@
         "template--16736965591268__ed367629-ccc2-4528-8fd0-74555c7c5b4b-1685360744f04d5d9b-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Now",
+            "button_label_1": "Discover Compassion",
             "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -35,23 +35,22 @@
         "template--16736965591268__ed367629-ccc2-4528-8fd0-74555c7c5b4b-1685360744f04d5d9b-2"
       ],
       "custom_css": [
-        ".banner__media {opacity: 50%;}",
-        ".banner__box {background: transparent;}",
-        ".banner__text {color: white;}",
-        ".banner__heading {color: white;}"
+        ".banner__box {background-color: gray; border: 0;}",
+        ".banner__heading {color: white;}",
+        ".banner__text {color: white;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/PXL_20230527_234217484.jpg",
-        "image_overlay_opacity": 50,
+        "image_overlay_opacity": 30,
         "image_height": "large",
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "bottom-left",
         "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
         "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
+        "stack_images_on_mobile": false,
+        "show_text_below": true
       }
     },
     "featured_collection": {
@@ -196,12 +195,44 @@
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
-        "button_link": "",
+        "button_link": "shopify:\/\/collections\/all",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "56820211-273f-4bdb-89b2-896e97f71756": {
+      "type": "image-banner",
+      "blocks": {
+        "5fd27f5c-7f57-435d-b7f7-6bd3bfb3d023": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Choose Compassion",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "5fd27f5c-7f57-435d-b7f7-6bd3bfb3d023"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Compassion_Creamery_1.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "bottom-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
       }
     }
   },
@@ -209,6 +240,7 @@
     "ed367629-ccc2-4528-8fd0-74555c7c5b4b",
     "featured_collection",
     "cff1febd-a796-4207-9a3a-f14576fd03f1",
-    "3fa734c3-0767-4889-b47c-7d177000775d"
+    "3fa734c3-0767-4889-b47c-7d177000775d",
+    "56820211-273f-4bdb-89b2-896e97f71756"
   ]
 }
