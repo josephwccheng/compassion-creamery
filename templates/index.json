@@ -6,7 +6,7 @@
         "template--16736965591268__ed367629-ccc2-4528-8fd0-74555c7c5b4b-1685360744f04d5d9b-0": {
           "type": "heading",
           "settings": {
-            "heading": "OAT CREME CHEESE",
+            "heading": "OAT CRÈME CHEESE",
             "heading_size": "h1"
           }
         },
@@ -35,22 +35,22 @@
         "template--16736965591268__ed367629-ccc2-4528-8fd0-74555c7c5b4b-1685360744f04d5d9b-2"
       ],
       "custom_css": [
-        ".banner__box {background-color: transparent; border: 0;}",
+        ".banner__box {background-color: gray; border: 0;}",
         ".banner__heading {color: white;}",
         ".banner__text {color: white;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/PXL_20230527_234217484.jpg",
-        "image_overlay_opacity": 0,
+        "image_overlay_opacity": 40,
         "image_height": "medium",
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "bottom-left",
         "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "image_behavior": "ambient",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
-        "show_text_below": false
+        "show_text_below": true
       }
     },
     "featured_collection": {
