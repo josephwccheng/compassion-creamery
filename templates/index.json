@@ -41,7 +41,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/PXL_20230527_234217484.jpg",
-        "image_overlay_opacity": 30,
+        "image_overlay_opacity": 10,
         "image_height": "small",
         "desktop_content_position": "bottom-left",
         "show_text_box": true,
@@ -56,7 +56,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
+        "title": "Featured Products",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -93,7 +93,7 @@
         "template--16736965591268__00e2d8b8-6a35-41b1-a405-ede2e0706ffb-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We believe true self-discovery is not linear but instead, nurtured by compassion. <\/p><p>Only then, can this radiate into expanding our circle of compassion, so we can be kinder to all that inhabit this Earth that we share, including ourselves.<\/p>"
+            "text": "<h3>We believe true self-discovery is not linear but instead, nurtured by compassion. <\/h3><h3>Only then, can this radiate into expanding our circle of compassion, so we can be kinder to all that inhabit this Earth that we share, including ourselves.<\/h3>"
           }
         },
         "template--16736965591268__00e2d8b8-6a35-41b1-a405-ede2e0706ffb-button-1": {
