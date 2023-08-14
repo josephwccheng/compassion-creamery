@@ -1,1 +1,106 @@
-{"sections":{"main":{"type":"main-page","settings":{"padding_top":28,"padding_bottom":28}}},"order":["main"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "81ebdb03-d55f-4585-bd07-f9b09950df15": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16736965460196__81ebdb03-d55f-4585-bd07-f9b09950df15-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "So Why Compassion?",
+            "heading_size": "h1"
+          }
+        },
+        "template--16736965460196__81ebdb03-d55f-4585-bd07-f9b09950df15-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>For the environment. For all earthlings. For you.<\/strong><\/p><p>After years in the corporate world, I was burnt out, feeling unaligned and unmotivated as well as reckoning with a long-term mental illness.<br\/>Finally, I took the plunge into developing a much needed support system and starting to prioritise myself, from the inside out.<\/p><p>Compassion became a word that kept on popping up, from podcasts to passing conversations. Learning to gradually appreciate its relentless<br\/>persistence, the light-bulb moment came. It's a daily reminder to nourish ourselves both inside and out, with kindness and patience.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16736965460196__81ebdb03-d55f-4585-bd07-f9b09950df15-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Discover Compassion",
+            "button_link": "shopify:\/\/collections"
+          }
+        }
+      },
+      "block_order": [
+        "template--16736965460196__81ebdb03-d55f-4585-bd07-f9b09950df15-heading-1",
+        "template--16736965460196__81ebdb03-d55f-4585-bd07-f9b09950df15-text-1",
+        "template--16736965460196__81ebdb03-d55f-4585-bd07-f9b09950df15-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/mmexport1686629664453.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "195d3c33-616e-40c7-82c7-4111f2690841": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16736965460196__195d3c33-616e-40c7-82c7-4111f2690841-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--16736965460196__195d3c33-616e-40c7-82c7-4111f2690841-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>I'll be the first to admit, compassion is a bit of a ooey gooey word. We associate it with empathy, loving-kindness and alleviation of suffering, yet somehow innately, there's a part of us that's a bit uncomfortable with admitting and reaching out for help.<\/p><p>Ultimately, we can enrich the world by being our most whole and true selves. But it is up to us to take ourselves on this journey; no one can walk it for us. So let the little tub of Compassion sitting in your fridge be just a small reminder to be kind to ourselves.<\/p><p>Treat yourself, with Compassion.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16736965460196__195d3c33-616e-40c7-82c7-4111f2690841-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Discover Compassion",
+            "button_link": "shopify:\/\/collections"
+          }
+        }
+      },
+      "block_order": [
+        "template--16736965460196__195d3c33-616e-40c7-82c7-4111f2690841-heading-1",
+        "template--16736965460196__195d3c33-616e-40c7-82c7-4111f2690841-text-1",
+        "template--16736965460196__195d3c33-616e-40c7-82c7-4111f2690841-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/mmexport1691997139637.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "81ebdb03-d55f-4585-bd07-f9b09950df15",
+    "195d3c33-616e-40c7-82c7-4111f2690841"
+  ]
+}
