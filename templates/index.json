@@ -118,7 +118,7 @@
         "content_alignment": "center",
         "color_scheme": "background-2",
         "full_width": true,
-        "padding_top": 16,
+        "padding_top": 24,
         "padding_bottom": 36
       }
     },
@@ -245,10 +245,30 @@
     },
     "social_widget_35755": {
       "type": "social-widget",
+      "disabled": true,
       "settings": {
         "social_widget_id": "35755",
         "social_product_id": "none",
         "social_widget_type": "none"
+      }
+    },
+    "16919950109f4e19b5": {
+      "type": "apps",
+      "blocks": {
+        "bd1846e7-986c-4cc4-adbb-8a390bbd99d4": {
+          "type": "shopify:\/\/apps\/add-instagram-feed-tagembed\/blocks\/app-block\/087f3315-479f-4a46-9a8d-6edf602a4af7",
+          "settings": {
+            "tagembed_feed": "113620",
+            "tagembed_feed_position": "center",
+            "tagembed_feed_width": 100
+          }
+        }
+      },
+      "block_order": [
+        "bd1846e7-986c-4cc4-adbb-8a390bbd99d4"
+      ],
+      "settings": {
+        "include_margins": true
       }
     }
   },
@@ -258,6 +278,7 @@
     "00e2d8b8-6a35-41b1-a405-ede2e0706ffb",
     "cff1febd-a796-4207-9a3a-f14576fd03f1",
     "56820211-273f-4bdb-89b2-896e97f71756",
-    "social_widget_35755"
+    "social_widget_35755",
+    "16919950109f4e19b5"
   ]
 }
