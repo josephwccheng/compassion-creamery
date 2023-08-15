@@ -8,100 +8,51 @@
         "padding_bottom": 0
       }
     },
-    "81ebdb03-d55f-4585-bd07-f9b09950df15": {
-      "type": "image-with-text",
+    "299d534e-93f1-4b9d-99c0-79c0606c1681": {
+      "type": "rich-text",
       "blocks": {
-        "template--16736965460196__81ebdb03-d55f-4585-bd07-f9b09950df15-heading-1": {
+        "template--16770894201060__299d534e-93f1-4b9d-99c0-79c0606c1681-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Sarah's Story",
-            "heading_size": "h1"
+            "heading": "Privacy Policy",
+            "heading_size": "h2"
           }
         },
-        "template--16736965460196__81ebdb03-d55f-4585-bd07-f9b09950df15-text-1": {
+        "template--16770894201060__299d534e-93f1-4b9d-99c0-79c0606c1681-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>For the environment. For all earthlings. For you.<\/strong><\/p><p>After years in the corporate world, I was burnt out, feeling unaligned and unmotivated as well as reckoning with a long-term mental illness.<br\/>Finally, I took the plunge into developing a much needed support system and starting to prioritise myself, from the inside out.<\/p><p>Compassion became a word that kept on popping up, from Brene Brown book to 10 day Vipassana meditation retreats. Learning to gradually appreciate its relentless<br\/>persistence, the light-bulb moment came. It's a daily reminder to nourish ourselves both inside and out, with kindness and patience.<\/p>",
-            "text_style": "body"
+            "text": "<p>At Compassion Creamery we respect our customers' right to the privacy of their personal information. We have policies and procedures to ensure that all personal information, no matter how or where it is obtained, is handled sensitively, securely, and in accordance with the National Privacy Principles.<br\/><br\/><strong>WHAT PERSONAL INFORMATION DO WE COLLECT AND STORE?<\/strong><br\/>So that we can provide services to you, we may ask for personal details such as your name, address, telephone number or e-mail address. Privacy law requires us to collect personal information about you only if it is reasonable and practical to do so.  <br\/><br\/>Compassion Creamery takes measures to ensure your personal information is protected from unauthorised access, loss, misuse, disclosure or alteration. We also take measures to destroy personal information when it is no longer required.<br\/><br\/>Generally, you have no obligation to provide any information requested by us. If you choose to withhold requested information however, we may not be able to provide you with the goods and services that depend on the collection of that information.        <br\/><br\/><strong>HOW IS YOUR PERSONAL INFORMATION USED?<\/strong><br\/>The personal information that we ask for is generally used to provide goods or services to you. <br\/><br\/>We may also use your personal information in other ways to provide you with superior service. This may include using your personal information to advise you of new products and services if you have subscribed to our mailing list.<br\/><br\/>We do not provide your details to other organisations for any purpose.<\/p>"
           }
         },
-        "template--16736965460196__81ebdb03-d55f-4585-bd07-f9b09950df15-button-1": {
+        "template--16770894201060__299d534e-93f1-4b9d-99c0-79c0606c1681-button-1": {
           "type": "button",
           "settings": {
             "button_label": "Discover Compassion",
-            "button_link": "shopify:\/\/collections"
+            "button_link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "template--16736965460196__81ebdb03-d55f-4585-bd07-f9b09950df15-heading-1",
-        "template--16736965460196__81ebdb03-d55f-4585-bd07-f9b09950df15-text-1",
-        "template--16736965460196__81ebdb03-d55f-4585-bd07-f9b09950df15-button-1"
+        "template--16770894201060__299d534e-93f1-4b9d-99c0-79c0606c1681-heading-1",
+        "template--16770894201060__299d534e-93f1-4b9d-99c0-79c0606c1681-text-1",
+        "template--16770894201060__299d534e-93f1-4b9d-99c0-79c0606c1681-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/mmexport1686629664453.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "195d3c33-616e-40c7-82c7-4111f2690841": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--16736965460196__195d3c33-616e-40c7-82c7-4111f2690841-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "template--16736965460196__195d3c33-616e-40c7-82c7-4111f2690841-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>I'll be the first to admit, compassion is a bit of a ooey gooey word. We associate it with empathy, loving-kindness and alleviation of suffering, yet somehow innately, there's a part of us that's a bit uncomfortable with admitting and reaching out for help.<\/p><p>Ultimately, we can enrich the world by being our most whole and true selves. But it is up to us to take ourselves on this journey; no one can walk it for us. So let the little tub of Compassion sitting in your fridge be just a small reminder to be kind to ourselves.<\/p><p>Treat yourself, with Compassion,<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--16736965460196__195d3c33-616e-40c7-82c7-4111f2690841-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Discover Compassion",
-            "button_link": "shopify:\/\/collections"
-          }
-        }
-      },
-      "block_order": [
-        "template--16736965460196__195d3c33-616e-40c7-82c7-4111f2690841-heading-1",
-        "template--16736965460196__195d3c33-616e-40c7-82c7-4111f2690841-text-1",
-        "template--16736965460196__195d3c33-616e-40c7-82c7-4111f2690841-button-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/mmexport1691997139637.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
   "order": [
     "main",
-    "81ebdb03-d55f-4585-bd07-f9b09950df15",
-    "195d3c33-616e-40c7-82c7-4111f2690841"
+    "299d534e-93f1-4b9d-99c0-79c0606c1681"
   ]
 }
