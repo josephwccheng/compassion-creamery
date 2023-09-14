@@ -8,7 +8,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "FLAT RATE $15 SHIPPING SYDNEY WIDE",
+            "text": "FREE SHIPPING OVER $50 (SYDNEY SHIPPING ONLY)",
             "text_alignment": "center",
             "color_scheme": "accent-1",
             "link": ""
