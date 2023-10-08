@@ -35,18 +35,18 @@
         "template--16736965591268__ed367629-ccc2-4528-8fd0-74555c7c5b4b-1685360744f04d5d9b-2"
       ],
       "custom_css": [
-        ".banner__box {background-color: gray; border: 0;}",
-        ".banner__heading {color: white;}",
-        ".banner__text {color: white;}"
+        ".banner__box {background-color: ; border: 0;}",
+        ".banner__heading {color: darkslategray;}",
+        ".banner__text {color: darkslategray;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/PXL_20230527_234217484.jpg",
-        "image_overlay_opacity": 10,
-        "image_height": "small",
-        "desktop_content_position": "bottom-left",
+        "image": "shopify:\/\/shop_images\/DSCF8817_2.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "bottom-right",
         "show_text_box": true,
         "desktop_content_alignment": "left",
-        "color_scheme": "background-2",
+        "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
@@ -93,7 +93,7 @@
         "template--16736965591268__00e2d8b8-6a35-41b1-a405-ede2e0706ffb-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>We believe true self-discovery is not linear, but instead nurtured by compassion. <\/h2><h2>Only then can this radiate into expanding our circle of compassion, so we can be kinder to all that inhabit this Earth that we share, including ourselves.<\/h2>"
+            "text": "<h3>We believe true self-discovery is not linear, but instead nurtured by compassion. <\/h3><h3>Only then can this radiate into expanding our circle of compassion, so we can be kinder to all that inhabit this Earth that we share, including ourselves.<\/h3>"
           }
         },
         "template--16736965591268__00e2d8b8-6a35-41b1-a405-ede2e0706ffb-button-1": {
@@ -116,7 +116,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "background-2",
+        "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 24,
         "padding_bottom": 36
