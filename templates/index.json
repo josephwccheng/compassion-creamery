@@ -80,48 +80,6 @@
         "padding_bottom": 0
       }
     },
-    "00e2d8b8-6a35-41b1-a405-ede2e0706ffb": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16736965591268__00e2d8b8-6a35-41b1-a405-ede2e0706ffb-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Why Compassion?",
-            "heading_size": "h1"
-          }
-        },
-        "template--16736965591268__00e2d8b8-6a35-41b1-a405-ede2e0706ffb-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h3>We believe true self-discovery is not linear, but instead nurtured by compassion. <\/h3><h3>Only then can this radiate into expanding our circle of compassion, so we can be kinder to all that inhabit this Earth that we share, including ourselves.<\/h3>"
-          }
-        },
-        "template--16736965591268__00e2d8b8-6a35-41b1-a405-ede2e0706ffb-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Discover Compassion",
-            "button_link": "shopify:\/\/collections\/all",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--16736965591268__00e2d8b8-6a35-41b1-a405-ede2e0706ffb-heading-1",
-        "template--16736965591268__00e2d8b8-6a35-41b1-a405-ede2e0706ffb-text-1",
-        "template--16736965591268__00e2d8b8-6a35-41b1-a405-ede2e0706ffb-button-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-1",
-        "full_width": true,
-        "padding_top": 24,
-        "padding_bottom": 36
-      }
-    },
     "cff1febd-a796-4207-9a3a-f14576fd03f1": {
       "type": "multicolumn",
       "blocks": {
@@ -207,8 +165,50 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 28,
+        "padding_top": 4,
         "padding_bottom": 28
+      }
+    },
+    "00e2d8b8-6a35-41b1-a405-ede2e0706ffb": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16736965591268__00e2d8b8-6a35-41b1-a405-ede2e0706ffb-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Why Compassion?",
+            "heading_size": "h1"
+          }
+        },
+        "template--16736965591268__00e2d8b8-6a35-41b1-a405-ede2e0706ffb-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>We believe true self-discovery is not linear, but instead nurtured by compassion. <\/h3><h3>Only then can this radiate into expanding our circle of compassion, so we can be kinder to all that inhabit this Earth that we share, including ourselves.<\/h3>"
+          }
+        },
+        "template--16736965591268__00e2d8b8-6a35-41b1-a405-ede2e0706ffb-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Discover Compassion",
+            "button_link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16736965591268__00e2d8b8-6a35-41b1-a405-ede2e0706ffb-heading-1",
+        "template--16736965591268__00e2d8b8-6a35-41b1-a405-ede2e0706ffb-text-1",
+        "template--16736965591268__00e2d8b8-6a35-41b1-a405-ede2e0706ffb-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 36
       }
     },
     "16919950109f4e19b5": {
@@ -275,8 +275,8 @@
   "order": [
     "ed367629-ccc2-4528-8fd0-74555c7c5b4b",
     "featured_collection",
-    "00e2d8b8-6a35-41b1-a405-ede2e0706ffb",
     "cff1febd-a796-4207-9a3a-f14576fd03f1",
+    "00e2d8b8-6a35-41b1-a405-ede2e0706ffb",
     "16919950109f4e19b5",
     "56820211-273f-4bdb-89b2-896e97f71756",
     "social_widget_35755"
