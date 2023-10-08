@@ -128,7 +128,7 @@
         "template--16727963271396__cff1febd-a796-4207-9a3a-f14576fd03f1-1683720216fcd56d40-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/naturally_good_expo.jpg",
+            "image": "shopify:\/\/shop_images\/rsz_naturally-good-logo-png.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -138,7 +138,7 @@
         "template--16727963271396__cff1febd-a796-4207-9a3a-f14576fd03f1-1683720216fcd56d40-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/f_d_business.jpg",
+            "image": "shopify:\/\/shop_images\/rsz_food_and_drink_business.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -148,7 +148,7 @@
         "template--16727963271396__cff1febd-a796-4207-9a3a-f14576fd03f1-1683720216fcd56d40-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/afr_3.png",
+            "image": "shopify:\/\/shop_images\/rsz_afr_3.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -158,7 +158,7 @@
         "09be9c44-43a2-407a-a74e-ce8f1603aa32": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/RetailWorld_651a4822-b3cc-46ff-bea7-9c90745b8a3c.png",
+            "image": "shopify:\/\/shop_images\/Capture_56212040-b4d5-40ea-b593-194a7ef3f09b.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -207,8 +207,27 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 16,
-        "padding_bottom": 0
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "16919950109f4e19b5": {
+      "type": "apps",
+      "blocks": {
+        "bd1846e7-986c-4cc4-adbb-8a390bbd99d4": {
+          "type": "shopify:\/\/apps\/add-instagram-feed-tagembed\/blocks\/app-block\/087f3315-479f-4a46-9a8d-6edf602a4af7",
+          "settings": {
+            "tagembed_feed": "113620",
+            "tagembed_feed_position": "center",
+            "tagembed_feed_width": 100
+          }
+        }
+      },
+      "block_order": [
+        "bd1846e7-986c-4cc4-adbb-8a390bbd99d4"
+      ],
+      "settings": {
+        "include_margins": true
       }
     },
     "56820211-273f-4bdb-89b2-896e97f71756": {
@@ -251,25 +270,6 @@
         "social_product_id": "none",
         "social_widget_type": "none"
       }
-    },
-    "16919950109f4e19b5": {
-      "type": "apps",
-      "blocks": {
-        "bd1846e7-986c-4cc4-adbb-8a390bbd99d4": {
-          "type": "shopify:\/\/apps\/add-instagram-feed-tagembed\/blocks\/app-block\/087f3315-479f-4a46-9a8d-6edf602a4af7",
-          "settings": {
-            "tagembed_feed": "113620",
-            "tagembed_feed_position": "center",
-            "tagembed_feed_width": 100
-          }
-        }
-      },
-      "block_order": [
-        "bd1846e7-986c-4cc4-adbb-8a390bbd99d4"
-      ],
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
@@ -277,8 +277,8 @@
     "featured_collection",
     "00e2d8b8-6a35-41b1-a405-ede2e0706ffb",
     "cff1febd-a796-4207-9a3a-f14576fd03f1",
+    "16919950109f4e19b5",
     "56820211-273f-4bdb-89b2-896e97f71756",
-    "social_widget_35755",
-    "16919950109f4e19b5"
+    "social_widget_35755"
   ]
 }
