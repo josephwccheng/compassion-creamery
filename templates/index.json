@@ -14,7 +14,7 @@
           "type": "text",
           "settings": {
             "text": "All delicious. All nutritious. All vegan.",
-            "text_style": "body"
+            "text_style": "caption-with-letter-spacing"
           }
         },
         "template--16736965591268__ed367629-ccc2-4528-8fd0-74555c7c5b4b-1685360744f04d5d9b-2": {
@@ -38,7 +38,7 @@
         ".banner__box {background-color: ; border: 0;}",
         ".banner__heading {color: white;}",
         ".banner__text {color: white;}",
-        ".banner__box {color: grey}"
+        ".banner__box {background-color: ; color: grey;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/HD_clover_field_dark.png",
@@ -50,8 +50,8 @@
         "color_scheme": "inverse",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": true
+        "stack_images_on_mobile": true,
+        "show_text_below": false
       }
     },
     "featured_collection": {
