@@ -47,7 +47,6 @@
       {%- endif -%}
       <div class="contact__fields">
         <div class="field">
-          <label class="field__label" for="first-name">{{ 'templates.contact.form.firstname' | t }}</label>
           <input
             class="field__input"
             autocomplete="off"
@@ -55,19 +54,21 @@
             id="ContactForm-firstname"
             name="contact[{{ 'templates.contact.form.firstname' | t }}]"
             value="{% if form.name %}{{ form.name }}{% elsif customer %}{{ customer.name }}{% endif %}"
+            placeholder="{{ 'templates.contact.form.firstname' | t }}"
           >
+          <label class="field__label" for="ContactForm-firstname">{{ 'templates.contact.form.firstname' | t }}</label>
         </div>
         <div class="field">
-          <label class="field__label" for="lastname">{{ 'templates.contact.form.lastname' | t }}</label>
           <input
             class="field__input"
             autocomplete="off"
             type="text"
             id="ContactForm-lastname"
-            class="field__input"
             name="contact[{{ 'templates.contact.form.lastname' | t }}]"
             value="{% if form.name %}{{ form.name }}{% elsif customer %}{{ customer.name }}{% endif %}"
+            placeholder="{{ 'templates.contact.form.lastname' | t }}"
           >
+          <label class="field__label" for="ContactForm-lastname">{{ 'templates.contact.form.lastname' | t }}</label>
         </div>
       </div>
       <div class="field field--with-error">
