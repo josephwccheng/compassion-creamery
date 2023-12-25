@@ -46,13 +46,30 @@
         </ul>
       {%- endif -%}
       <div class="contact__fields">
-        <div class="first-name">
-          <label for="first-name">First name</label>
-          <input type="text" name="contact[first_name]" id="first-name" />
+        <div class="field">
+          <label class="field__label" for="first-name">{{ 'templates.contact.form.name' | t }}</label>
+          <input
+            class="field__input"
+            autocomplete="off"
+            type="text"
+            id="ContactForm-firstname"
+            name="contact[{{ 'templates.contact.form.name' | t }}]"
+            value="{% if form.name %}{{ form.name }}{% elsif customer %}{{ customer.name }}{% endif %}"
+            placeholder="{{ 'templates.contact.form.name' | t }}"
+          >
         </div>
-        <div class="last-name">
-          <label for="last-name">Last name</label>
-          <input type="text" name="contact[last_name]" id="last-name" />
+        <div class="field">
+          <label class="field__label" for="ContactForm-lastname">{{ 'templates.contact.form.name' | t }}</label>
+          <input
+            class="field__input"
+            autocomplete="off"
+            type="text"
+            id="ContactForm-lastname"
+            class="field__input"
+            name="contact[{{ 'templates.contact.form.name' | t }}]"
+            value="{% if form.name %}{{ form.name }}{% elsif customer %}{{ customer.name }}{% endif %}"
+            placeholder="{{ 'templates.contact.form.name' | t }}"
+          >
         </div>
       </div>
       <div class="field field--with-error">
