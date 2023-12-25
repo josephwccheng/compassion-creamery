@@ -46,30 +46,16 @@
         </ul>
       {%- endif -%}
       <div class="contact__fields">
-        <div class="field">
-          <input
-            class="field__input"
-            autocomplete="off"
-            type="text"
-            id="ContactForm-firstname"
-            name="contact[{{ 'templates.contact.form.firstname' | t }}]"
-            value="{% if form.name %}{{ form.name }}{% elsif customer %}{{ customer.name }}{% endif %}"
-            placeholder="{{ 'templates.contact.form.firstname' | t }}"
-          >
-          <label class="field__label" for="ContactForm-firstname">{{ 'templates.contact.form.firstname' | t }}</label>
-        </div>
-        <div class="field">
-          <input
-            class="field__input"
-            autocomplete="off"
-            type="text"
-            id="ContactForm-lastname"
-            name="contact[{{ 'templates.contact.form.lastname' | t }}]"
-            value="{% if form.name %}{{ form.name }}{% elsif customer %}{{ customer.name }}{% endif %}"
-            placeholder="{{ 'templates.contact.form.lastname' | t }}"
-          >
-          <label class="field__label" for="ContactForm-lastname">{{ 'templates.contact.form.lastname' | t }}</label>
-        </div>
+        <input
+          class="field__input"
+          autocomplete="off"
+          type="text"
+          id="ContactForm-name"
+          name="contact[{{ 'templates.contact.form.name' | t }}]"
+          value="{% if form.name %}{{ form.name }}{% elsif customer %}{{ customer.name }}{% endif %}"
+          placeholder="{{ 'templates.contact.form.name' | t }}"
+        >
+        <label class="field__label" for="ContactForm-name">{{ 'templates.contact.form.name' | t }}</label>
       </div>
       <div class="field field--with-error">
         <input
