@@ -237,8 +237,7 @@
     "contact": {
       "form": {
         "title": "Contact form",
-        "firstname": "First Name",
-        "lastname": "Last Name",
+        "name": "Name",
         "email": "Email",
         "postcode": "Post Code",
         "phone": "Phone number",
