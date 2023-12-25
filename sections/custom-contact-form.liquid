@@ -45,7 +45,7 @@
           </li>
         </ul>
       {%- endif -%}
-      <div class="field">
+      <div class="field field--with-error">
         <input
           class="field__input"
           autocomplete="off"
@@ -54,6 +54,10 @@
           name="contact[{{ 'templates.contact.form.name' | t }}]"
           value="{% if form.name %}{{ form.name }}{% elsif customer %}{{ customer.name }}{% endif %}"
           aria-required="true"
+          {% if form.errors contains 'name' %}
+            aria-invalid="true"
+            aria-describedby="ContactForm-name-error"
+          {% endif %}
           placeholder="{{ 'templates.contact.form.name' | t }}"
         >
         <label class="field__label" for="ContactForm-name">{{ 'templates.contact.form.name' | t }}</label>
