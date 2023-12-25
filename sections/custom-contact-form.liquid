@@ -107,7 +107,7 @@
           </small>
         {%- endif -%}
       </div>
-      <div class="field">
+      <div class="field field--with-error">
         <input
           type="number"
           id="ContactForm-postcode"
@@ -116,9 +116,27 @@
           name="contact[{{ 'templates.contact.form.postcode' | t }}]"
           pattern="[0-9\-]*"
           value="{% if form.postcode %}{{ form.postcode }}{% elsif customer %}{{ customer.postcode }}{% endif %}"
+          aria-required="true"
+          {% if form.errors contains 'postcode' %}
+            aria-invalid="true"
+            aria-describedby="ContactForm-postcode-error"
+          {% endif %}
           placeholder="{{ 'templates.contact.form.postcode' | t }}"
         >
-        <label class="field__label" for="ContactForm-postcode">{{ 'templates.contact.form.postcode' | t }}</label>
+        <label class="field__label" for="ContactForm-postcode">
+          {{ 'templates.contact.form.postcode' | t }}
+          <span aria-hidden="true">*</span>
+        </label>
+              {%- if form.errors contains 'postcode' -%}
+          <small class="contact__field-error" id="ContactForm-postcode-error">
+            <span class="visually-hidden">{{ 'accessibility.error' | t }}</span>
+            <span class="form__message">
+              {%- render 'icon-error' -%}
+              {{- form.errors.translated_fields.postcode | capitalize }}
+              {{ form.errors.messages.postcode -}}
+            </span>
+          </small>
+        {%- endif -%}
       </div>
       <div class="field">
         <textarea
