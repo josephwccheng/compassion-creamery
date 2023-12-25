@@ -16,6 +16,7 @@
 
 <div class="color-{{ section.settings.color_scheme }} gradient">
   <div class="contact page-width page-width--narrow section-{{ section.id }}-padding">
+    {% comment %}
     {%- if section.settings.heading != blank -%}
       <h2 class="title title-wrapper--no-top-margin inline-richtext {{ section.settings.heading_size }}">
         {{ section.settings.heading }}
@@ -23,6 +24,7 @@
     {%- else -%}
       <h2 class="visually-hidden">{{ 'templates.contact.form.title' | t }}</h2>
     {%- endif -%}
+    {% endcomment %}
     {%- form 'contact', id: 'ContactForm', class: 'isolate' -%}
       {%- if form.posted_successfully? -%}
         <h2 class="form-status form-status-list form__message" tabindex="-1" autofocus>
@@ -256,9 +258,3 @@
   ]
 }
 {% endschema %}
-
-<style>
-  .page__header{
-  display:none !important;
-  }
-</style>
