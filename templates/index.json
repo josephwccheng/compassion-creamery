@@ -41,7 +41,7 @@
         ".banner__box {background-color: ; color: grey;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Red_and_Green_Cute_Festive_Holiday_December_Newsletter_Email_Header_1.png",
+        "image": "shopify:\/\/shop_images\/Bunny_Shopify_Cover_e1c9473f-b052-4b01-8241-29d1816af488.jpg",
         "image_overlay_opacity": 10,
         "image_height": "small",
         "desktop_content_position": "bottom-left",
@@ -146,9 +146,9 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured Products",
+        "title": "Little Luxuries",
         "heading_size": "h2",
-        "description": "",
+        "description": "<p>Easter is all about bunnies and little luxuries that put a smile on your face. <\/p><p>This Easter, we've brought you both so you can indulge with your loved ones.<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "frontpage",
