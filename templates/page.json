@@ -63,13 +63,13 @@
           "type": "heading",
           "settings": {
             "heading": "a love letter to...",
-            "heading_size": "h2"
+            "heading_size": "h1"
           }
         },
         "text_xeXdAD": {
           "type": "text",
           "settings": {
-            "text": "<h6><em>the mothers who've lost children, the children who've lost mums, those who have strained relationships between mother and child, those who have chosen not to be mothers, those yearning to be mothers, single mums, two mums, maternal figures, and everything in between. We all deserve mother's love.<\/em><\/h6><p><\/p>"
+            "text": "<p><em>the mothers who've lost children, the children who've lost mums, those who have strained relationships between mother and child, those who have chosen not to be mothers, those yearning to be mothers, single mums, two mums, maternal figures, and everything in between. We all deserve mother's love.<\/em><\/p><p><\/p>"
           }
         },
         "button_jrVQRx": {
@@ -90,8 +90,8 @@
         "button_jrVQRx"
       ],
       "settings": {
-        "desktop_content_position": "left",
-        "content_alignment": "left",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 8,
@@ -123,8 +123,8 @@
       "settings": {
         "color_scheme": "accent-2",
         "full_width": true,
-        "padding_top": 4,
-        "padding_bottom": 0
+        "padding_top": 12,
+        "padding_bottom": 24
       }
     }
   },
