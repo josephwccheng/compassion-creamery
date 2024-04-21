@@ -121,10 +121,10 @@
 
       ],
       "settings": {
-        "color_scheme": "background-2",
+        "color_scheme": "accent-2",
         "full_width": true,
         "padding_top": 4,
-        "padding_bottom": 0
+        "padding_bottom": 20
       }
     }
   },
