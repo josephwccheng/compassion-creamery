@@ -63,13 +63,13 @@
           "type": "heading",
           "settings": {
             "heading": "a love letter to...",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "text_xeXdAD": {
           "type": "text",
           "settings": {
-            "text": "<p><em>the mothers who've lost children, the children who've lost mums, those who have strained relationships between mother and child, those who have chosen not to be mothers, those yearning to be mothers, single mums, two mums, maternal figures, and everything in between. We all deserve mother's love.<\/em><\/p><p><\/p>"
+            "text": "<h6><em>new mums, mums of many, single mums, two mums, the mothers who've lost children, the children who've lost mums, those who have strained relationships between mother and child, those who have chosen not to be mothers, those yearning to be mothers, all maternal figures, and everything in between. We all deserve mother's love.<\/em><\/h6><p><\/p>"
           }
         },
         "button_jrVQRx": {
@@ -90,8 +90,8 @@
         "button_jrVQRx"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "desktop_content_position": "left",
+        "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 8,
@@ -104,7 +104,7 @@
         "paragraph_EA7WmM": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Send love to your mum, maternal figure or yourself this Mother's Day. <\/p><h6>Sign up below for an exclusive pre-launch access and code<\/h6>"
+            "text": "<h5>Send love to all those that mum (yes you too!) this Mother's Day. <\/h5><h5><strong>Sign up below for an exclusive coupon code for our pre-launch access<\/strong><\/h5>"
           }
         },
         "email_form_8j6Wkm": {
@@ -121,10 +121,10 @@
 
       ],
       "settings": {
-        "color_scheme": "accent-2",
+        "color_scheme": "background-2",
         "full_width": true,
-        "padding_top": 12,
-        "padding_bottom": 24
+        "padding_top": 4,
+        "padding_bottom": 0
       }
     }
   },
