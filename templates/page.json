@@ -62,7 +62,7 @@
         "heading_YcUF9p": {
           "type": "heading",
           "settings": {
-            "heading": "a love letter to...",
+            "heading": "send love to all those who mum...",
             "heading_size": "h2"
           }
         },
@@ -98,27 +98,122 @@
         "padding_bottom": 0
       }
     },
-    "newsletter_NxdK9e": {
+    "multicolumn_YMGVpa": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_gf4fLm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/439503057_1061441104949228_1149758722822335948_n.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_7rgbRD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/439461921_3663428020580417_3610644340605928885_n.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_V4UpKb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/439361947_1111423663520606_6481793341655508248_n.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_gf4fLm",
+        "column_7rgbRD",
+        "column_V4UpKb"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_UhCLfn": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_pnKKBU": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h2"
+          }
+        },
+        "text_HHrMU8": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>We're partnering with Sydney's most ethical and sustainable florist, Camie Fleur, to create gorgeous bundles your 'mum' will adore! Eternal dried blooms with delectable Oat Creme Cheese and desserts, this is sure to delight!<\/h5><h5>As maintaining ethical practices is our priority, <strong>we only have 80 bundles. S<\/strong>ign up below to ensure you're the first to be notified when we launch!<\/h5>"
+          }
+        },
+        "button_jf9caJ": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_pnKKBU",
+        "text_HHrMU8",
+        "button_jf9caJ"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "newsletter_rXBKk3": {
       "type": "newsletter",
       "blocks": {
-        "paragraph_EA7WmM": {
+        "paragraph_dqmJb9": {
           "type": "paragraph",
           "settings": {
             "text": "<h5>Send love to all those that mum (yes you too!) this Mother's Day. <\/h5><h5><strong>Sign up below for an exclusive coupon code for our pre-launch access<\/strong><\/h5>"
           }
         },
-        "email_form_8j6Wkm": {
+        "email_form_jcTnVk": {
           "type": "email_form",
           "settings": {
           }
         }
       },
       "block_order": [
-        "paragraph_EA7WmM",
-        "email_form_8j6Wkm"
-      ],
-      "custom_css": [
-
+        "paragraph_dqmJb9",
+        "email_form_jcTnVk"
       ],
       "settings": {
         "color_scheme": "accent-2",
@@ -129,8 +224,21 @@
     },
     "slideshow_YaLT9m": {
       "type": "slideshow",
+      "settings": {
+        "layout": "grid",
+        "slide_height": "small",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "slideshow_jJtf6i": {
+      "type": "slideshow",
       "blocks": {
-        "slide_DpRDFr": {
+        "slide_hxJ9zq": {
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/Screenshot_Shopify_13baddcc-8f47-43f5-9bf0-9d96e5c69852.jpg",
@@ -148,7 +256,7 @@
             "text_alignment_mobile": "center"
           }
         },
-        "slide_6WxMKW": {
+        "slide_RX7rNi": {
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/C0313T01_ceb774f5-bedf-41d5-836c-66dc5170a648.jpg",
@@ -168,8 +276,8 @@
         }
       },
       "block_order": [
-        "slide_DpRDFr",
-        "slide_6WxMKW"
+        "slide_hxJ9zq",
+        "slide_RX7rNi"
       ],
       "settings": {
         "layout": "grid",
@@ -181,13 +289,43 @@
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
+    },
+    "newsletter_UiDNqn": {
+      "type": "newsletter",
+      "blocks": {
+        "paragraph_gGrWbM": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<h5><strong>Sign up for your exclusive coupon code and our pre-launch access<\/strong><\/h5>"
+          }
+        },
+        "email_form_Q34BWi": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "paragraph_gGrWbM",
+        "email_form_Q34BWi"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 4,
+        "padding_bottom": 20
+      }
     }
   },
   "order": [
     "main",
     "image_banner_XwyfAn",
     "rich_text_mNxdGL",
-    "newsletter_NxdK9e",
-    "slideshow_YaLT9m"
+    "multicolumn_YMGVpa",
+    "rich_text_UhCLfn",
+    "newsletter_rXBKk3",
+    "slideshow_YaLT9m",
+    "slideshow_jJtf6i",
+    "newsletter_UiDNqn"
   ]
 }
