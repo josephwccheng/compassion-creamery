@@ -41,7 +41,7 @@
         ".banner__box {background-color: ; color: grey;}"
       ],
       "settings": {
-        "image_2": "shopify:\/\/shop_images\/Mother_s_Day_Shopify_Screenshot.jpg",
+        "image": "shopify:\/\/shop_images\/2024-04-25SarahsImages-4_afc03015-e769-48b6-b7f0-6de8dd794e16.jpg",
         "image_overlay_opacity": 10,
         "image_height": "medium",
         "desktop_content_position": "bottom-left",
@@ -190,7 +190,7 @@
       "settings": {
         "title": "Ethical. Vegan. Sustainable.",
         "heading_size": "h2",
-        "description": "<p><em>No cashews, coconut oil, starches, gums or fillers.<\/em><\/p>",
+        "description": "<p><em>No nuts, coconut oil, starches, gums or fillers.<\/em><\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "frontpage",
