@@ -96,10 +96,10 @@
         "padding_bottom": 0
       }
     },
-    "cff1febd-a796-4207-9a3a-f14576fd03f1": {
+    "multicolumn_GBrptV": {
       "type": "multicolumn",
       "blocks": {
-        "template--16727963271396__cff1febd-a796-4207-9a3a-f14576fd03f1-1683720216fcd56d40-1": {
+        "column_qapNkY": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/rsz_naturally-good-logo-png.png",
@@ -109,7 +109,7 @@
             "link": "https:\/\/naturallygood.com.au\/meet-the-makers\/meet-sara-qian-from-compassion-creamery-this-years-2022-pitch-fest-winner\/"
           }
         },
-        "template--16727963271396__cff1febd-a796-4207-9a3a-f14576fd03f1-1683720216fcd56d40-0": {
+        "column_jff4rR": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/rsz_food_and_drink_business.png",
@@ -119,7 +119,7 @@
             "link": "https:\/\/www.businessnsw.com\/events\/business-awards"
           }
         },
-        "template--16727963271396__cff1febd-a796-4207-9a3a-f14576fd03f1-1683720216fcd56d40-2": {
+        "column_TkaKjH": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/rsz_afr_3.png",
@@ -129,7 +129,7 @@
             "link": "https:\/\/fishburners.org\/techforgood\/fishburners-doubles-down-on-sustainability-announcing-winners-of-tech-for-good-awards\/"
           }
         },
-        "09be9c44-43a2-407a-a74e-ce8f1603aa32": {
+        "column_gHCYJ9": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Capture_56212040-b4d5-40ea-b593-194a7ef3f09b.png",
@@ -139,7 +139,7 @@
             "link": ""
           }
         },
-        "7432baa9-4822-4025-8fe6-b677c424fca8": {
+        "column_qx89hW": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Business_NSW.png",
@@ -149,7 +149,7 @@
             "link": ""
           }
         },
-        "f5526964-2cf9-4aa4-a8c3-671bdcb33054": {
+        "column_Gg6NDk": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/ABC.jpg",
@@ -161,12 +161,12 @@
         }
       },
       "block_order": [
-        "template--16727963271396__cff1febd-a796-4207-9a3a-f14576fd03f1-1683720216fcd56d40-1",
-        "template--16727963271396__cff1febd-a796-4207-9a3a-f14576fd03f1-1683720216fcd56d40-0",
-        "template--16727963271396__cff1febd-a796-4207-9a3a-f14576fd03f1-1683720216fcd56d40-2",
-        "09be9c44-43a2-407a-a74e-ce8f1603aa32",
-        "7432baa9-4822-4025-8fe6-b677c424fca8",
-        "f5526964-2cf9-4aa4-a8c3-671bdcb33054"
+        "column_qapNkY",
+        "column_jff4rR",
+        "column_TkaKjH",
+        "column_gHCYJ9",
+        "column_qx89hW",
+        "column_Gg6NDk"
       ],
       "settings": {
         "title": "",
@@ -188,9 +188,9 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Ethically Made. Totally Vegan. Deliciously Good.",
+        "title": "To All Those Who 'Mum'",
         "heading_size": "h2",
-        "description": "<p><em>No nuts, coconut oil, starches, gums or fillers.<\/em><\/p>",
+        "description": "<p><em>A celebration of all those who 'mum' in our lives - aunts, grandmas, teachers, fur mums, (yes and you too!)<\/em><\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "frontpage",
@@ -209,6 +209,62 @@
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 16,
+        "padding_bottom": 0
+      }
+    },
+    "cff1febd-a796-4207-9a3a-f14576fd03f1": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16727963271396__cff1febd-a796-4207-9a3a-f14576fd03f1-1683720216fcd56d40-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HD_clover_field.png",
+            "title": "Unwavering Ethics",
+            "text": "<p>100% Australian oats. No nuts, cashews, coconut oil.<\/p>",
+            "link_label": "",
+            "link": "https:\/\/naturallygood.com.au\/meet-the-makers\/meet-sara-qian-from-compassion-creamery-this-years-2022-pitch-fest-winner\/"
+          }
+        },
+        "template--16727963271396__cff1febd-a796-4207-9a3a-f14576fd03f1-1683720216fcd56d40-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hcnkaaxd.png",
+            "title": "Deliciously Good",
+            "text": "<p>1.5 years spent in crafting the perfect nourishing indulgence. <\/p>",
+            "link_label": "",
+            "link": "https:\/\/fishburners.org\/techforgood\/fishburners-doubles-down-on-sustainability-announcing-winners-of-tech-for-good-awards\/"
+          }
+        },
+        "template--16727963271396__cff1febd-a796-4207-9a3a-f14576fd03f1-1683720216fcd56d40-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSCF8747_2.jpg",
+            "title": "Totally Vegan",
+            "text": "<p>Vegan for all those inhabit this Earth, including ourselves.<\/p>",
+            "link_label": "",
+            "link": "https:\/\/www.businessnsw.com\/events\/business-awards"
+          }
+        }
+      },
+      "block_order": [
+        "template--16727963271396__cff1febd-a796-4207-9a3a-f14576fd03f1-1683720216fcd56d40-1",
+        "template--16727963271396__cff1febd-a796-4207-9a3a-f14576fd03f1-1683720216fcd56d40-2",
+        "template--16727963271396__cff1febd-a796-4207-9a3a-f14576fd03f1-1683720216fcd56d40-0"
+      ],
+      "settings": {
+        "title": "Our Commitment to You",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -276,8 +332,9 @@
   "order": [
     "ed367629-ccc2-4528-8fd0-74555c7c5b4b",
     "rich_text_J6ATY7",
-    "cff1febd-a796-4207-9a3a-f14576fd03f1",
+    "multicolumn_GBrptV",
     "featured_collection",
+    "cff1febd-a796-4207-9a3a-f14576fd03f1",
     "16919950109f4e19b5",
     "56820211-273f-4bdb-89b2-896e97f71756",
     "social_widget_35755"
