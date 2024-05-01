@@ -67,14 +67,14 @@
         "text_CpbzUm": {
           "type": "text",
           "settings": {
-            "text": "<p>Your daily nourishment of delicious goodness made with hand selected highest quality ingredients - good for you, good for the planet and all those that inhabit it.<\/p>"
+            "text": "<p><em>Your daily nourishment of delicious goodness made with hand selected highest quality ingredients - good for you, good for the planet and all those that inhabit it.<\/em><\/p>"
           }
         },
         "button_YbfjNU": {
           "type": "button",
           "settings": {
-            "button_label": "",
-            "button_link": "",
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/collections\/creme-cheese",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
