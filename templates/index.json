@@ -54,6 +54,48 @@
         "show_text_below": false
       }
     },
+    "rich_text_J6ATY7": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PpLL7g": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_CpbzUm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Your daily nourishment of delicious goodness made with hand selected highest quality ingredients - good for you, good for the planet and all those that inhabit it.<\/p>"
+          }
+        },
+        "button_YbfjNU": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_PpLL7g",
+        "text_CpbzUm",
+        "button_YbfjNU"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "cff1febd-a796-4207-9a3a-f14576fd03f1": {
       "type": "multicolumn",
       "blocks": {
@@ -146,7 +188,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Australia's most ethical, sustainable & delicious cream cheese",
+        "title": "Ethical. Vegan. Sustainable.",
         "heading_size": "h2",
         "description": "<p><em>No cashews, coconut oil, starches, gums or fillers.<\/em><\/p>",
         "show_description": false,
@@ -233,6 +275,7 @@
   },
   "order": [
     "ed367629-ccc2-4528-8fd0-74555c7c5b4b",
+    "rich_text_J6ATY7",
     "cff1febd-a796-4207-9a3a-f14576fd03f1",
     "featured_collection",
     "16919950109f4e19b5",
