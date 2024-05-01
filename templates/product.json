@@ -36,21 +36,6 @@
             "show_gift_card_recipient": false
           }
         },
-        "37e3bb38-9ef4-491d-88f2-f2dd7f68754d": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "horizontal",
-            "icon_1": "heart",
-            "image_1": "shopify:\/\/shop_images\/Klarna_logo_ea11372d-2a31-4626-8598-43f05c926534.png",
-            "heading_1": "Klarna",
-            "icon_2": "return",
-            "image_2": "shopify:\/\/shop_images\/zippay_logo.png",
-            "heading_2": "Zip Pay",
-            "icon_3": "truck",
-            "image_3": "shopify:\/\/shop_images\/afterpay_logo.png",
-            "heading_3": "Afterpay"
-          }
-        },
         "0552bf2e-d8ef-4b3e-abc4-54dd1b295637": {
           "type": "icon-with-text",
           "settings": {
@@ -89,7 +74,6 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "37e3bb38-9ef4-491d-88f2-f2dd7f68754d",
         "0552bf2e-d8ef-4b3e-abc4-54dd1b295637",
         "4651b0e9-ab70-4256-a640-964614d555ee",
         "b21c8752-a6a8-4beb-bbbb-dce5e9ca18fc"
