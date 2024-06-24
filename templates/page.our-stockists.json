@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -21,7 +30,7 @@
         "template--16771272081636__f1084bfa-c74c-4cfe-a59d-1a91d772a28a-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Restaurants & Cafes:<\/strong><\/p><p>- Brooklyn Boy Bagels, Marrickville & Surry Hills<\/p><p>- Buddha Bowl Cafe, Newtown<\/p><p>- Oh My Days, Glebe<\/p><p><strong>Catering:<\/strong><\/p><p>- The University of Sydney, HostCo<\/p><p>- Radish Events<\/p><p><strong>Corporates Companies\/Organisations<\/strong><\/p><p>- Canva HQ<\/p><p>- Fishburners\/Sydney Startup Hub<\/p><p><strong>Retail<\/strong>:<\/p><p>- Coming soon!<\/p><p>___<\/p><p><strong>Need us stocked near you? Please:<\/strong><\/p><p><strong>1. Let them know<\/strong><\/p><p><strong>2. Let us know!<\/strong><\/p>",
+            "text": "<p><strong>Restaurants & Cafes:<\/strong><\/p><p>- Buddha Bowl Cafe, Newtown<\/p><p>- Girdlers: Avalon, Balgowlah, Dee Why, Manly<\/p><p>- Velicious, North Narrabeen<\/p><p>- Burnt Honey: Copacabana, Long Jetty<\/p><p>- The House Lounge by Aspire,  Sydney International Airport<\/p><p><strong>Catering:<\/strong><\/p><p>- HostCo, The University of Sydney<\/p><p><\/p><p><strong>Corporates Companies\/Organisations<\/strong><\/p><p>- Canva HQ<\/p><p>- Fishburners\/Sydney Startup Hub<\/p><p>- Greenhouse Tech<\/p><p><\/p><p><strong>Retail<\/strong>:<\/p><p>- Chay Mart, Newtown<\/p><p>- Astin Min, Collaroy<\/p><p>___<\/p><p><strong>Need us stocked near you? Please:<\/strong><\/p><p><strong>1. Let them know<\/strong><\/p><p><strong>2. Let us know!<\/strong><\/p>",
             "text_style": "body"
           }
         },
