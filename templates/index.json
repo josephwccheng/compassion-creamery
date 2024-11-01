@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "ed367629-ccc2-4528-8fd0-74555c7c5b4b": {
@@ -30,7 +30,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "",
-            "button_link_1": "shopify:\/\/collections\/all",
+            "button_link_1": "shopify://collections/all",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -50,7 +50,7 @@
         ".banner__box {background-color: ; color: grey;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/2024-04-25SarahsImages-4_afc03015-e769-48b6-b7f0-6de8dd794e16.jpg",
+        "image_2": "shopify://shop_images/462548159_1766587364244073_1732373231247796480_n_54231e18-fd95-429e-b176-11f6a1ebbfd0.jpg",
         "image_overlay_opacity": 10,
         "image_height": "medium",
         "desktop_content_position": "bottom-left",
@@ -76,14 +76,14 @@
         "text_CpbzUm": {
           "type": "text",
           "settings": {
-            "text": "<p><em>Your daily nourishment of delicious goodness made with highest quality 100% Australian oats - good for you, good for the planet and all those that inhabit it.<\/em><\/p>"
+            "text": "<p><em>Your daily nourishment of delicious goodness made with highest quality 100% Australian oats - good for you, good for the planet and all those that inhabit it.</em></p>"
           }
         },
         "button_YbfjNU": {
           "type": "button",
           "settings": {
             "button_label": "Shop Now",
-            "button_link": "shopify:\/\/collections\/creme-cheese",
+            "button_link": "shopify://collections/creme-cheese",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -111,37 +111,37 @@
         "column_qapNkY": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/rsz_naturally-good-logo-png.png",
+            "image": "shopify://shop_images/rsz_naturally-good-logo-png.png",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "https:\/\/naturallygood.com.au\/meet-the-makers\/meet-sara-qian-from-compassion-creamery-this-years-2022-pitch-fest-winner\/"
+            "link": "https://naturallygood.com.au/meet-the-makers/meet-sara-qian-from-compassion-creamery-this-years-2022-pitch-fest-winner/"
           }
         },
         "column_jff4rR": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/rsz_food_and_drink_business.png",
+            "image": "shopify://shop_images/rsz_food_and_drink_business.png",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "https:\/\/www.businessnsw.com\/events\/business-awards"
+            "link": "https://www.businessnsw.com/events/business-awards"
           }
         },
         "column_TkaKjH": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/rsz_afr_3.png",
+            "image": "shopify://shop_images/rsz_afr_3.png",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "https:\/\/fishburners.org\/techforgood\/fishburners-doubles-down-on-sustainability-announcing-winners-of-tech-for-good-awards\/"
+            "link": "https://fishburners.org/techforgood/fishburners-doubles-down-on-sustainability-announcing-winners-of-tech-for-good-awards/"
           }
         },
         "column_gHCYJ9": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Capture_56212040-b4d5-40ea-b593-194a7ef3f09b.png",
+            "image": "shopify://shop_images/Capture_56212040-b4d5-40ea-b593-194a7ef3f09b.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -151,7 +151,7 @@
         "column_qx89hW": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Business_NSW.png",
+            "image": "shopify://shop_images/Business_NSW.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -161,7 +161,7 @@
         "column_Gg6NDk": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ABC.jpg",
+            "image": "shopify://shop_images/ABC.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -199,7 +199,7 @@
       "settings": {
         "title": "deliciously good...",
         "heading_size": "h2",
-        "description": "<p><em>Australia's most sustainable and ethical cream cheeese<\/em><\/p>",
+        "description": "<p><em>Australia's most sustainable and ethical cream cheeese</em></p>",
         "show_description": false,
         "description_style": "body",
         "collection": "frontpage",
@@ -227,31 +227,31 @@
         "template--16727963271396__cff1febd-a796-4207-9a3a-f14576fd03f1-1683720216fcd56d40-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/HD_clover_field.png",
+            "image": "shopify://shop_images/HD_clover_field.png",
             "title": "Unwavering Ethics",
-            "text": "<p>100% Australian oats. No nuts, cashews, coconut oil.<\/p>",
+            "text": "<p>100% Australian oats. No nuts, cashews, coconut oil.</p>",
             "link_label": "",
-            "link": "https:\/\/naturallygood.com.au\/meet-the-makers\/meet-sara-qian-from-compassion-creamery-this-years-2022-pitch-fest-winner\/"
+            "link": "https://naturallygood.com.au/meet-the-makers/meet-sara-qian-from-compassion-creamery-this-years-2022-pitch-fest-winner/"
           }
         },
         "template--16727963271396__cff1febd-a796-4207-9a3a-f14576fd03f1-1683720216fcd56d40-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/hcnkaaxd.png",
+            "image": "shopify://shop_images/hcnkaaxd.png",
             "title": "Deliciously Good",
-            "text": "<p>1.5 years spent in crafting the perfect nourishing indulgence. <\/p>",
+            "text": "<p>1.5 years spent in crafting the perfect nourishing indulgence. </p>",
             "link_label": "",
-            "link": "https:\/\/fishburners.org\/techforgood\/fishburners-doubles-down-on-sustainability-announcing-winners-of-tech-for-good-awards\/"
+            "link": "https://fishburners.org/techforgood/fishburners-doubles-down-on-sustainability-announcing-winners-of-tech-for-good-awards/"
           }
         },
         "template--16727963271396__cff1febd-a796-4207-9a3a-f14576fd03f1-1683720216fcd56d40-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF8747_2.jpg",
+            "image": "shopify://shop_images/DSCF8747_2.jpg",
             "title": "Totally Vegan",
-            "text": "<p>Vegan for all those inhabit this Earth, including ourselves.<\/p>",
+            "text": "<p>Vegan for all those inhabit this Earth, including ourselves.</p>",
             "link_label": "",
-            "link": "https:\/\/www.businessnsw.com\/events\/business-awards"
+            "link": "https://www.businessnsw.com/events/business-awards"
           }
         }
       },
@@ -281,7 +281,7 @@
       "type": "apps",
       "blocks": {
         "bd1846e7-986c-4cc4-adbb-8a390bbd99d4": {
-          "type": "shopify:\/\/apps\/add-instagram-feed-tagembed\/blocks\/app-block\/087f3315-479f-4a46-9a8d-6edf602a4af7",
+          "type": "shopify://apps/add-instagram-feed-tagembed/blocks/app-block/087f3315-479f-4a46-9a8d-6edf602a4af7",
           "settings": {
             "tagembed_feed": "113620",
             "tagembed_feed_position": "center",
@@ -303,7 +303,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop Now",
-            "button_link_1": "shopify:\/\/collections\/all",
+            "button_link_1": "shopify://collections/all",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -315,7 +315,7 @@
         "5fd27f5c-7f57-435d-b7f7-6bd3bfb3d023"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Compassion_Creamery_1.png",
+        "image": "shopify://shop_images/Compassion_Creamery_1.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "bottom-left",
