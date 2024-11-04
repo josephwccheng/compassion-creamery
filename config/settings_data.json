@@ -1,12 +1,21 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/350369881_1422404651828150_7788802921305903574_n.jpg",
+    "logo": "shopify://shop_images/350369881_1422404651828150_7788802921305903574_n.jpg",
     "logo_width": 180,
-    "favicon": "shopify:\/\/shop_images\/c.png",
+    "favicon": "shopify://shop_images/c.png",
     "colors_solid_button_labels": "#ffffff",
-    "colors_accent_1": "#9b7ecd",
+    "colors_accent_1": "#65886a",
     "gradient_accent_1": "",
-    "colors_accent_2": "#c2ace6",
+    "colors_accent_2": "#65886a",
     "gradient_accent_2": "",
     "colors_text": "{{ shop.brand.colors.primary[0].background }}",
     "colors_outline_button_labels": "#323232",
@@ -109,10 +118,10 @@
     "sold_out_badge_color_scheme": "inverse",
     "accent_icons": "text",
     "brand_headline": "",
-    "brand_description": "<p><\/p>",
+    "brand_description": "<p></p>",
     "brand_image_width": 100,
-    "social_facebook_link": "https:\/\/www.facebook.com\/compassioncreameryau",
-    "social_instagram_link": "https:\/\/www.instagram.com\/compassion.creamery\/",
+    "social_facebook_link": "https://www.facebook.com/compassioncreameryau",
+    "social_instagram_link": "https://www.instagram.com/compassion.creamery/",
     "social_youtube_link": "",
     "social_tiktok_link": "",
     "social_twitter_link": "",
@@ -147,13 +156,13 @@
     ],
     "blocks": {
       "6227a9e2-8a2a-428a-97c1-bc739820009f": {
-        "type": "shopify:\/\/apps\/instagram-feed-story-tiktok\/blocks\/social-widget\/508b8d5b-b176-4dc6-a0ba-2b222db6eb79",
+        "type": "shopify://apps/instagram-feed-story-tiktok/blocks/social-widget/508b8d5b-b176-4dc6-a0ba-2b222db6eb79",
         "disabled": false,
         "settings": {
         }
       },
       "855628211100114053": {
-        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
+        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
         "settings": {
         }
@@ -269,7 +278,7 @@
       "sold_out_badge_color_scheme": "inverse",
       "accent_icons": "text",
       "brand_headline": "",
-      "brand_description": "<p><\/p>",
+      "brand_description": "<p></p>",
       "brand_image_width": 100,
       "social_twitter_link": "",
       "social_facebook_link": "",
@@ -306,7 +315,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "#sticky-atc {display: block; position: fixed; bottom: 0; left: 0; z-index: 100; width: 100%; \/* Add \"background: #000;\" to change the colour of your ATC button*\/ \/* Add \"color: #fff;\" to change the colour of your ATC text*\/}"
+      "#sticky-atc {display: block; position: fixed; bottom: 0; left: 0; z-index: 100; width: 100%; /* Add \"background: #000;\" to change the colour of your ATC button*/ /* Add \"color: #fff;\" to change the colour of your ATC text*/}"
     ]
   }
 }
