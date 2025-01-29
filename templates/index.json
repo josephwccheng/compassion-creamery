@@ -15,8 +15,8 @@
         "template--16736965591268__ed367629-ccc2-4528-8fd0-74555c7c5b4b-1685360744f04d5d9b-0": {
           "type": "heading",
           "settings": {
-            "heading": "OAT CRÈME CHEESE",
-            "heading_size": "h0"
+            "heading": "home of oat creme tiramisu",
+            "heading_size": "h1"
           }
         },
         "template--16736965591268__ed367629-ccc2-4528-8fd0-74555c7c5b4b-1685360744f04d5d9b-1": {
@@ -50,9 +50,9 @@
         ".banner__box {background-color: ; color: grey;}"
       ],
       "settings": {
-        "image_2": "shopify://shop_images/462548159_1766587364244073_1732373231247796480_n_54231e18-fd95-429e-b176-11f6a1ebbfd0.jpg",
+        "image": "shopify://shop_images/474458592_2026324504531654_7069061648962645767_n.jpg",
         "image_overlay_opacity": 10,
-        "image_height": "medium",
+        "image_height": "small",
         "desktop_content_position": "bottom-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
