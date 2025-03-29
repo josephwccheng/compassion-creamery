@@ -197,12 +197,12 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "my valentine's",
+        "title": "easter delights",
         "heading_size": "h2",
-        "description": "<p><em>the gift of love, to be shared with loved ones or simply with oneself</em></p>",
+        "description": "<p><em>the perfect treat - no gathering is complete without tiramisu</em></p>",
         "show_description": false,
         "description_style": "body",
-        "collection": "valentines-2025",
+        "collection": "easter-2025",
         "products_to_show": 4,
         "columns_desktop": 2,
         "full_width": true,
