@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -21,14 +30,14 @@
         "template--16739071295716__59612eeb-a4d1-4e04-a62a-d3d6f4d72a81-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>FAQ<\/strong><\/p><p><strong>HOW MUCH WILL DELIVERY COST?<\/strong><\/p><p>We deliver Sydney wide, with a flat rate of $15.<\/p><p><strong>HOW WILL MY PRODUCT BE SHIPPED?<\/strong><\/p><p>All products are shipped frozen. This does not affect the quality of the product. Shelf life of all products is 2-3 weeks and 3 months in freezer. Thaw before consumption<\/p><p><strong>WHEN WILL MY DELIVERY COME?<\/strong><\/p><p>Deliveries come between 8am-8pm. You will be sent a 2-hour delivery time frame on the morning of delivery. Some Sydney areas are only on particular days, you will see this upon checkout. <\/p><p><strong>HOW LONG WILL IT TAKE TO RECEIVE MY ORDER?<\/strong><\/p><p>All products in stock will be shipped and delivered within 2-3 days. Our stock does run out quickly though so it may take a few extra days.We make all of our Oat Creme Cheese in house and goes through a fermentation process so it really is a labour of love! If you have a date you need your order to arrive by, please pop the request in the order notes!<\/p><p><strong>CAN YOU ADD A CARD TO MY ORDER?<\/strong><\/p><p>Yes, we are happy to add a card if you are sending a gift. Please write it in your order notes in the cart before checkout or reply to your order confirmation email - please do this at the time of ordering to avoid the order leaving without the card.<\/p><p><strong>DELIVERY INSTRUCTIONS?<\/strong><\/p><p>Please write any particular instructions in your order notes before checkout or reply to your order confirmation email - please do this at the time of ordering to avoid the order leaving without the notes. <\/p><p><strong>CORPORATE OR BULK ORDERS?<\/strong><\/p><p>If you are ordering 10 or more orders, please email hello@compassioncreamery.com.au and we can organise this.<\/p><p><strong>HOW DOES COMPASSION CREAMERY PACK ITS PRODUCTS?<\/strong><\/p><p>All Compassion Creamery products need to be chilled upon arrival and are shipped frozen with insulated bubble wrap and an ice brick.<\/p><p><strong>WILL I BE UPDATED ON MY ORDER?<\/strong><\/p><p>Yes! You'll have live tracking just like Uber! And you'll also receive 2 emails and 3 SMSs, the first on the day of delivery at 8am, then when the driver is a few minutes away, and finally on delivery.<\/p>"
+            "text": "<p><strong>FAQ</strong></p><p><strong>HOW MUCH WILL DELIVERY COST?</strong></p><p>We deliver Sydney wide for a flat fee depending on suburb (see pricing at checkout). In other words, your order can be as big or small as you want for the same price. </p><p>For full transparency, we do not add any margin onto the shipping fee, and absorb as much of it as we can.</p><p>Please note we are a small operation so any reshipping will require an additional fee.</p><p><strong>HOW WILL MY PRODUCT BE SHIPPED?</strong></p><p>All products are shipped frozen. This does not affect the quality of the product. Shelf life of all products is 2-3 weeks and 3 months in freezer. Thaw before consumption</p><p><strong>WHEN WILL MY DELIVERY COME?</strong></p><p>Deliveries come between 8am-8pm. You will be sent a delivery time frame the evening before delivery. </p><p><strong>HOW LONG WILL IT TAKE TO RECEIVE MY ORDER?</strong></p><p>All products in stock will be shipped and delivered within 1 week. Our stock does run out quickly though so it may take a few extra days. We make all of our delectable products in house so it really is a labour of love! If you have a date you need your order to arrive by, please pop the request in the order notes!</p><p><strong>CAN YOU ADD A CARD TO MY ORDER?</strong></p><p>Yes, we are happy to add a card if you are sending a gift. Please write it in your order notes in the cart before checkout or reply to your order confirmation email - please do this at the time of ordering to avoid the order leaving without the card.</p><p><strong>DELIVERY INSTRUCTIONS?</strong></p><p>Please write any particular instructions in your order notes before checkout or reply to your order confirmation email - please do this at the time of ordering to avoid the order leaving without the notes. </p><p><strong>CORPORATE OR BULK ORDERS?</strong></p><p>If you are ordering 10 or more orders, please email hello@compassioncreamery.com.au and we can organise this.</p><p><strong>HOW DOES COMPASSION CREAMERY PACK ITS PRODUCTS?</strong></p><p>All Compassion Creamery products need to be chilled upon arrival and are shipped frozen via frozen courier. Store at fridge temperature or in the freezer if you need a longer shelf life (up to 6 months). </p>"
           }
         },
         "template--16739071295716__59612eeb-a4d1-4e04-a62a-d3d6f4d72a81-button-1": {
           "type": "button",
           "settings": {
             "button_label": "Discover Compassion",
-            "button_link": "shopify:\/\/collections",
+            "button_link": "shopify://collections",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
