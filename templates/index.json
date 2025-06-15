@@ -197,9 +197,9 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "love you mum",
+        "title": "our decadent dessert range",
         "heading_size": "h2",
-        "description": "<p><em>celebrating everyone who mums - young mums, old mums, mums of furry children and everything in between</em></p>",
+        "description": "<p><em>whether you want to impress the host, plan a birthday, or treat yourself, we have a sweet treat for every occasion </em></p><p><em>you just have to love tiramisu</em></p>",
         "show_description": false,
         "description_style": "body",
         "collection": "mothers-day-2025",
