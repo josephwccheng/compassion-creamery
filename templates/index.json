@@ -15,7 +15,7 @@
         "template--16736965591268__ed367629-ccc2-4528-8fd0-74555c7c5b4b-1685360744f04d5d9b-0": {
           "type": "heading",
           "settings": {
-            "heading": "<em>home of oat creme tiramisu</em>",
+            "heading": "<em><strong>home of oat creme tiramisu</strong></em>",
             "heading_size": "h1"
           }
         },
@@ -283,8 +283,8 @@
         "bd1846e7-986c-4cc4-adbb-8a390bbd99d4": {
           "type": "shopify://apps/add-instagram-feed-tagembed/blocks/app-block/087f3315-479f-4a46-9a8d-6edf602a4af7",
           "settings": {
+            "tagembed_feed_website_id": "",
             "tagembed_feed": "113620",
-            "tagembed_feed_position": "center",
             "tagembed_feed_width": 100
           }
         }
