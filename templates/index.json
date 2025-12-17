@@ -51,7 +51,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/Christmas_Hamper_Horizontal.jpg",
-        "image_overlay_opacity": 10,
+        "image_overlay_opacity": 30,
         "image_height": "small",
         "desktop_content_position": "bottom-left",
         "show_text_box": true,
