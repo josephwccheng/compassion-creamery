@@ -1,0 +1,338 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_XwyfAn": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_pwjFyQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "to all those who mum",
+            "heading_size": "h1"
+          }
+        },
+        "text_bYVNNH": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
+        "buttons_rdPJYy": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "shopify://collections",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_pwjFyQ",
+        "text_bYVNNH",
+        "buttons_rdPJYy"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Mother_s_Day_Shopify_Screenshot.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text_mNxdGL": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YcUF9p": {
+          "type": "heading",
+          "settings": {
+            "heading": "send love to all those who mum...",
+            "heading_size": "h2"
+          }
+        },
+        "text_xeXdAD": {
+          "type": "text",
+          "settings": {
+            "text": "<h6><em>new mums, mums of many, single mums, two mums, the mothers who've lost children, the children who've lost mums, those who have strained relationships between mother and child, those who have chosen not to be mothers, those yearning to be mothers, all maternal figures, and everything in between. We all deserve mother's love.</em></h6><p></p>"
+          }
+        },
+        "button_jrVQRx": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_YcUF9p",
+        "text_xeXdAD",
+        "button_jrVQRx"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 8,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_YMGVpa": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_gf4fLm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/439503057_1061441104949228_1149758722822335948_n.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_7rgbRD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/439461921_3663428020580417_3610644340605928885_n.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_V4UpKb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/439361947_1111423663520606_6481793341655508248_n.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_gf4fLm",
+        "column_7rgbRD",
+        "column_V4UpKb"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_UhCLfn": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_pnKKBU": {
+          "type": "heading",
+          "settings": {
+            "heading": "celebrating 'Mum' ethically & sustainably",
+            "heading_size": "h2"
+          }
+        },
+        "text_HHrMU8": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>We're partnering with Sydney's most ethical and sustainable florist, Camie Fleur, to create gorgeous bundles your 'mum' will adore! Eternal dried blooms with delectable Oat Creme Cheese and desserts, this is sure to delight!</h5><h5>As maintaining ethical practices is our priority, <strong>we only have 80 bundles. </strong>Sign up below to ensure you're the first to be notified when we launch!</h5>"
+          }
+        },
+        "button_jf9caJ": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_pnKKBU",
+        "text_HHrMU8",
+        "button_jf9caJ"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "newsletter_rXBKk3": {
+      "type": "newsletter",
+      "blocks": {
+        "paragraph_dqmJb9": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<h5>Send love to all those that mum (yes you too!) this Mother's Day. </h5><h5><strong>Sign up below for an exclusive coupon code for our pre-launch access</strong></h5>"
+          }
+        },
+        "email_form_jcTnVk": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "paragraph_dqmJb9",
+        "email_form_jcTnVk"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 4,
+        "padding_bottom": 20
+      }
+    },
+    "slideshow_YaLT9m": {
+      "type": "slideshow",
+      "settings": {
+        "layout": "grid",
+        "slide_height": "small",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "slideshow_jJtf6i": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_hxJ9zq": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_Shopify_13baddcc-8f47-43f5-9bf0-9d96e5c69852.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "inverse",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_RX7rNi": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/C0313T01_ceb774f5-bedf-41d5-836c-66dc5170a648.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "inverse",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_hxJ9zq",
+        "slide_RX7rNi"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "small",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "newsletter_UiDNqn": {
+      "type": "newsletter",
+      "blocks": {
+        "paragraph_gGrWbM": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<h5><strong>Sign up for your exclusive coupon code and our pre-launch access</strong></h5>"
+          }
+        },
+        "email_form_Q34BWi": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "paragraph_gGrWbM",
+        "email_form_Q34BWi"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 4,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_XwyfAn",
+    "rich_text_mNxdGL",
+    "multicolumn_YMGVpa",
+    "rich_text_UhCLfn",
+    "newsletter_rXBKk3",
+    "slideshow_YaLT9m",
+    "slideshow_jJtf6i",
+    "newsletter_UiDNqn"
+  ]
+}
